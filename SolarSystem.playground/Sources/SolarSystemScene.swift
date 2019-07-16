@@ -1,7 +1,6 @@
 import SpriteKit
 
 public class SolarSystemScene: SKScene {
-
   private var label : SKLabelNode!
   private var sun : SKShapeNode!
   private var orbit: SKShapeNode!
